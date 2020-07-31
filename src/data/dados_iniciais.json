@@ -1,153 +1,129 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Finances",
+      "link": "https://www.youtube.com/watch?v=QnJ70T438qU",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Canais de finanças para dominarmos o nosso suado dinheirinho",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "COMO AUMENTAR O SCORE: Guia INFALÍVEL",
+          "url": "https://www.youtube.com/watch?v=J-iJsYEhA8M"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "MEU PRIMEIRO MILHÃO: Como fiquei milionária com 32 anos",
+          "url": "https://www.youtube.com/watch?v=4jaWDfTbytA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Como administrar as finanças de sua empresa? - #CerbasiResponde",
+          "url": "https://www.youtube.com/watch?v=MtFxmFYioas"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "POR QUE EU ACORDO ÀS 4:30 DA MANHÃ? | 5AM Club (o clube das 5)",
+          "url": "https://www.youtube.com/watch?v=CGI2LJAcz0A"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "EDUCAÇÃO É UM GASTO OU UM INVESTIMENTO? | NATH FINANÇAS",
+          "url": "https://www.youtube.com/watch?v=4i50eZ_DPvw"
+        }       
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Business",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "7 IDEIAS DE NEGÓCIOS (PEQUENOS) para AUMENTAR a sua RENDA",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "7 IDEIAS DE NEGÓCIOS (PEQUENOS) para AUMENTAR a sua RENDA",
+          "url": "https://www.youtube.com/watch?v=H3DePqT2ad8"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "5 NEGÓCIOS nos EUA que ainda NÃO chegaram no BRASIL! (Negócios rentáveis do futuro)",
+          "url": "https://www.youtube.com/watch?v=25w_d0d96Qc"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "A INCRÍVEL VIDA DE WARREN BUFFETT | Histórias de Sucesso #01",
+          "url": "https://www.youtube.com/watch?v=2aDySEqiy0o"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "O FUTURO DOS NEGÓCIOS DEPOIS DO CORONAVÍRUS: QUEM VAI LUCRAR OU QUEBRAR?",
+          "url": "https://www.youtube.com/watch?v=a2kzPlKTKLk"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Gaming",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Participe da comunidade CODM no Brasil!",
+        "url": "https://www.callofduty.com/br/pt/mobile"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "NOVO BATTLE ROYALE SEASON 9 NO CALL OF DUTY MOBILE VIROU WARZONE - MUDANCAS E NOVIDADES",
+          "url": "https://www.youtube.com/watch?v=Kmen9ME2Lps"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "🏆GRAND FINALS | Philippines National Championship | Call of Duty®:Mobile -Garena",
+          "url": "https://www.youtube.com/watch?v=WkMV5kmzmes"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "COD Mobile - ARMA **LENDÁRIA de LAVA** | Sorteio Ponto de Fusão QQ9 E Mace na Season 8",
+          "url": "https://www.youtube.com/watch?v=BZmb9OhpouA"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Music & Dancing",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus",
+          "url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Can't Help Falling In Love - Elvis Cover by 6-Year-Old Claire Crosby",
+          "url": "https://www.youtube.com/watch?v=VlPdfLr1FSo"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Tico Tico no Fubá - Duo Siqueira Lima - 4 Hands",
+          "url": "https://www.youtube.com/watch?v=NVitgDEh_tw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "KRYPTO9095 FT. D3MSTREET WOAH (OFFICIAL SONG TO WOAH DANCE)",
+          "url": "https://www.youtube.com/watch?v=afRki2_aNKg"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Other stuff",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Espaço do aleatório",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "COMO JOGAR MINECRAFT NA BANANA !",
+          "url": "https://www.youtube.com/watch?v=SMvh0Vkt-50"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Nota de R$ 200: por que agora e qual a razão de tanta polêmica?",
+          "url": "https://www.youtube.com/watch?v=u0A5Opejy2k"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Tirulive / Tirullipa Show / O rei das lives",
+          "url": "https://www.youtube.com/watch?v=O-jSTC3L-TA"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Entrevista com Cabo Daciolo | The Noite (29/07/20)",
+          "url": "https://www.youtube.com/watch?v=JX-ahxIfwSE"
         }
       ]
     },
