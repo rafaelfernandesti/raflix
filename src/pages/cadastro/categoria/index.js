@@ -3,37 +3,21 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
-// função de teste
+import useForm from '../../../hooks/useForm';
+
 function CadastroCategoria() {
   const valoresIniciais = {
     nome: '',
     descricao: '',
     cor: '',
   };
-  const [values, setValues] = useState(valoresIniciais);
+
+  const { values, atualizarValores, clearForm } = useForm(valoresIniciais);
   const [categorias, setCategorias] = useState([]);
 
-  function setValue(chave, valor) {
-    setValues({
-      ...values,
-      [chave]: valor,
-    });
-  }
-
-  function atualizarValores(infoDoEvento) {
-    // const { getAttribute, value } = infoDoEvento.target; //não consegui fazer funcionar (Aula 03 - 57'01'')
-    setValue(
-      infoDoEvento.target.getAttribute('name'),
-      infoDoEvento.target.value,
-      // getAttribute('name'),
-      // value
-    );
-    // console.log(infoDoEvento.target.value);
-  }
-
   useEffect(() => {
-    console.log('Efeito colateral');
-    const URL = window.location.hostname('localhost')
+    // console.log('Efeito colateral');
+    const URL = window.location.hostname === 'localhost'
       ? 'http://localhost:8080/categorias'
       : 'https://raflix-app.herokuapp.com/categorias';
     fetch(URL)
@@ -60,7 +44,7 @@ function CadastroCategoria() {
           values,
         ]);
 
-        setValues(valoresIniciais);
+        clearForm();
       }}
       >
         <FormField
@@ -92,8 +76,8 @@ function CadastroCategoria() {
       </form>
       <ul>
         {categorias.map((categoria) => (
-          <li key={`${categoria.nome}`}>
-            {categoria.nome}
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
           </li>
         ))}
       </ul>
