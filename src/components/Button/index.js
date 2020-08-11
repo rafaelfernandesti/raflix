@@ -1,7 +1,27 @@
 import styled from 'styled-components';
 
-const Button = styled.a`
+// const Button = styled.a`
+//     color: var(--white);
+//     border: 1px solid var(--white);
+//     box-sizing: border-box;
+//     cursor: pointer;
+//     padding: 16px 24px;
+//     font-style: normal;
+//     font-weight: bold;
+//     font-size: 16px;
+//     outline: none;
+//     border-radius: 5px;
+//     text-decoration: none;
+//     display: inline-block;
+//     transition: opacity .3s;
+//     &:hover,
+//     &:focus {
+//         opacity: .5;
+//     }
+// `;
+const Button = styled.button`
     color: var(--white);
+    background-color: #141414;
     border: 1px solid var(--white);
     box-sizing: border-box;
     cursor: pointer;
@@ -19,5 +39,4 @@ const Button = styled.a`
         opacity: .5;
     }
 `;
-
 export default Button;

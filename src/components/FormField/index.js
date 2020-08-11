@@ -69,7 +69,7 @@ const Input = styled.input`
 }
 
   ${function ({ hasValue }) {
-    console.log(hasValue);
+    // console.log(hasValue);
     // return 'background: red';
   }}
 `;
